@@ -2,6 +2,7 @@
 *{
     margin: 0;
     padding: 0;
+    overflow:hidden;
 }
 .container{
     font-family: 'Outfit', sans-serif;
@@ -27,7 +28,6 @@
     padding: 20px;
     background-color: hsl(216, 50%, 16%);
     border-radius: 12.5px;
-    margin-bottom: 16px;
 }
 .nft-container p{
     font-weight: 400;
@@ -118,6 +118,6 @@ ol{
 @media (min-width: 375px){
     .nft-container{
         width: 290px;
-        margin: 0 auto 28px;
+        margin: 0 auto 20px;
     }
 }
