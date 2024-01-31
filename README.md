@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-![design preview](./images/website-review.png)
+![design preview](./images/website-review.jpg)
 
 ### Links
 
